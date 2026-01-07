@@ -96,3 +96,14 @@ h2 {
   border-radius: 8px;
   text-align: center;
 }
+
+.quote-section {
+  background-color: #e5e7eb;
+  color: #1F2937;
+  padding: 40px;
+  text-align: center;
+  font-size: 36px;
+  font-style: italic;
+  font-weight: 300;
+}
+
